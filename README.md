@@ -2,7 +2,7 @@ yo this is actually kind of wild....
 
 so this is going to be kind of a big project. which may honestly end up broken up into smaller portions that will make the project more modular. 
 
-Welp this is it, this is the start of noanotherSandbox... what is it, you might ask, well this is going to be a general sandbox project in Unity that will likeyl be the playground
+Welp this is it, this is the start of notanotherSandbox... what is it, you might ask, well this is going to be a general sandbox project in Unity that will likeyl be the playground
 and birthplace of many other games and projects. If you've ever played games such as Boneworks by Stress Level Zero, or Garry's Mod by Garry Newman, then you will have a pretty good 
 idea of what to expect when interacting with this project. 
 
