@@ -22,16 +22,15 @@ Current Features:
 - Basic FPS functions (WASD, Sprint, Crouch)
 - NoClip
 - (Sorta) Functioning Gravity Gun from HL2
-  
-     Gravgun Abilities:
-        - Debugging Features
-        - Pull objects using Right Click (must hold)
-        - Lock Object in place (literally) with Left Click
-        - Throw Objects by left clicking again while object is held. (Need to add drop function)
-        - Rotate Object using Q,E, and Scroll while being held in place
-  
 - Modular Weapon system (in progress)
 - Ability to pick up Gravgun and Drop
+
+Gravgun Abilities:
+  - Debugging Features
+  - Pull objects using Right Click (must hold)
+  - Lock Object in place (literally) with Left Click
+  - Throw Objects by left clicking again while object is held. (Need to add drop function)
+  - Rotate Object using Q,E, and Scroll while being held in place
 
 So far that is all that is added that I can remember right now. I'm not sure where I'm going to go next with it, but everything will be updated here and on the discord. Most of the live activity
 will be able to be seen at the discord. I will probably go live in chat sometimes and get feedback from you guys directly or just to simply hang out. 
